@@ -4,7 +4,7 @@ import binaryTree3.MainClass.TreeNode;
 
 public class MainClass {
 
-	public class TreeNode {
+	public class TreeNode { 
 	      int val;
 	      TreeNode left; 
 	      TreeNode right;
