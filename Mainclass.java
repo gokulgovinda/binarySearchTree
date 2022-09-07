@@ -2,7 +2,7 @@ package binarySearchTree1;
  
 import binaryTree3.MainClass.TreeNode; 
  
-public class MainClass {
+public class MainClass { 
  
 	public class TreeNode { 
 	      int val;
